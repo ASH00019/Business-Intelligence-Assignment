@@ -2,7 +2,7 @@
 This repository contains the code and analysis for my Business Intelligence assignment. The assignment focuses on analyzing an auto sales dataset to uncover insights into sales trends, customer behavior, and product performance.
 
 # Contents
-Contains Python scripts used for data preprocessing, statistical analysis, and machine learning models.
+Includes the assignment requirements. Contains Python scripts used for data preprocessing, statistical analysis, and machine learning models.
 Includes the dataset used for analysis before and after cleaning data. Provides visualizations and summaries of key findings from the analysis.
 
 # Analysis Steps
